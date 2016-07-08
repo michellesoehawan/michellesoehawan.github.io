@@ -1,0 +1,27 @@
+body{
+	background-color: brown;
+	font-family:american type writer;
+}
+#first{
+width: 200px; 
+height: 200px;
+background-color: lightblue;
+margin-left: 50px
+}
+
+
+#second{
+width: 500px; 
+height: 500px;
+background-color: lightgreen;
+margin-right: 500px
+}
+
+
+#third{
+width: 500px; 
+height: 500px;
+background-color: lightblue;
+
+
+}

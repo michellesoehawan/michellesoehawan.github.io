@@ -1,0 +1,48 @@
+body{
+background-image:url(http://www.mariannetaylorphotography.co.uk/images/personal/090317_paris_london_wedding_photography_04.jpg);}
+
+li {float: left;
+list-style: none;
+margin-top: 15px }
+
+li a{
+
+	border-radius: 25px;
+	border-style: double;
+	border-width: 2px;
+
+	color:white;
+	font-style: italic;
+	font-size: 30px;
+	}
+
+#first{
+
+width: 200px; 
+height: 200px;
+background-color: lightblue;
+margin-left: 50px
+}
+
+
+#second{
+width: 500px; 
+height: 500px;
+background-color: lightgreen;
+margin-right: 500px
+}
+
+
+#third{
+width: 500px; 
+height: 500px;
+background-color: lightblue;
+}
+
+
+h1{
+	font-style:verdana; 
+	margin-left: 600px;
+}
+
+	
